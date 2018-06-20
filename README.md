@@ -10,8 +10,12 @@ This project was originally designed around a standard arduino uno r3 with a 20x
 There are also 4 buttons on pins 7, 8, 9, and 10. The specific board or LCD panel is not important to the code
 
 ### Prerequisites
-
+```
 Install the included player library by placeing it in the arduino libraries folder
+```
+```
+Install the Arduino LCD I2C library found [here](https://github.com/boutboutnico/LCD_I2C_lib)
+```
 
 ## Planned Features
 ```
@@ -25,4 +29,5 @@ Bluetooth companion app to read more data
 ## Author
 * **Carter Richmond** - *Initial work* - [Crich576](https://github.com/Crich576)
 
-
+## Acknowledgments
+Thank you to [nboutin](https://github.com/boutboutnico) for his LCD I2C library
