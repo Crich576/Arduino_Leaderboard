@@ -14,13 +14,13 @@ There are also 4 buttons on pins 7, 8, 9, and 10. The specific board or LCD pane
 Install the included player library by placeing it in the arduino libraries folder
 
 ## Planned Features
-'''
+```
 Alterable player names
 Revised Screen State System
 Updated Event Based programming to not rely on arduino main loop
 Battery saving messures
 Bluetooth companion app to read more data
-'''
+```
 
 ## Author
 * **Carter Richmond** - *Initial work* - [Crich576](https://github.com/Crich576)
